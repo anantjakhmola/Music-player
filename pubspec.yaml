@@ -13,11 +13,15 @@ dependencies:
   cupertino_icons: ^0.1.2
   audioplayers: ^0.15.1
   fluttertoast: ^7.0.2
+  carousel_slider: ^2.2.1
+  youtube_player_flutter: ^7.0.0+7
+  http: ^0.12.2
 
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
 
 flutter:
 
